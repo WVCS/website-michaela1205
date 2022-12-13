@@ -1,3 +1,37 @@
 body {
-
+body{
+  background-color:#E9D6EC;
+}
+h2{
+  color:#6D676E;
+    font-size:300%;
+  letter-spacing:2px;
+}
+p{
+  color: #86BBD8;
+  font-size:150%;
+}
+img{
+  border: dotted #6D676E 5px;
+}
+iframe{
+  border: dashed #6D676E 5px;
+}
+ul{
+  list-style-type: none;
+  position: fixed;
+  width: 100%;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 10px;
+  color:#86BBD8;
+  text-decoration-line: none;
+}
+li a:hover{
+  background-color: white;
+  color: purple
+}
 }
